@@ -1,0 +1,22 @@
+body {
+    background-image: url("../../Img/fondo.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
+
+.container {
+    margin-top: 3%;
+    background-color:white;
+}
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
